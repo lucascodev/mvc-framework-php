@@ -10,7 +10,7 @@ Well, to start you need to download the project:
 
 
 ```
-git clone https://github.com/lucascodev/
+git clone https://github.com/lucascodev/mvc-framework-php.git
 ```
 
 Assuming you have your environment configured with *php* and *composer*, 
