@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": ">=7.4.29"
+    },
+    "authors": [
+        {
+            "name": "Lucas Pereira",
+            "email": "lucas.codev@hotmail.com"
+        }
+    ],
+    "autoload": {
+		"psr-4": {
+			"App\\": "App/",
+			"MF\\": "vendor/MF/"
+		}
+	}
+}
